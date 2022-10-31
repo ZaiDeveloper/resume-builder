@@ -1,6 +1,4 @@
-# ZaiZainal.Com
-
-ZaiZainal.Com - Laravel Developer
+# Resume Builder By ZaiZainal.Com
 
 A resume/CV builder that helps generate a beautiful resume in a minute.
 
@@ -27,10 +25,12 @@ Features:
 
 ## Running Vite
 
-> Run the Vite development server...
+Run the Vite development server...
+
 > npm run dev
 
-> Build and version the assets for production...
+Build and version the assets for production...
+
 > npm run build
 
 Powered by ZAIZAINAL.COM
