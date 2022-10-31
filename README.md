@@ -12,6 +12,12 @@ Features:
 -   Laravel filter
 -   Use action concept
 
+## Setup Env
+
+-   PHP ^8
+-   NodeJs ^16
+-   MySQL
+
 ## Installation
 
 -   Clone the repo and cd into it
